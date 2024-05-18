@@ -1,2 +1,2 @@
-# Taxonomic-profiling-with-Kaiju
+# Kaiju Reports
 Extract abundance data from KaijuReports 
